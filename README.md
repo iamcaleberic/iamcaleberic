@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building internal developer platforms and automated provisioning solutions on kubernetes(GKE&EKS).<br>👯 I’m looking to collaborate on open source projects using golang and rust or any kubernetes related projects.<br>
+🔭 I’m currently working on building internal developer platforms and automated provisioning solutions on kubernetes.<br>👯 I’m looking to collaborate on open source projects using golang and rust or any kubernetes related projects.<br>
 
 
 ## 🌐 Socials:
