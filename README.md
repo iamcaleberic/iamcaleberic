@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building internal developer platforms and automated provisioning solutions.<br>👯 I’m looking to collaborate on open source projects using golang and rust<br>
+🔭 I’m currently working on building internal developer platforms and automated provisioning solutions.<br>👯 I’m looking to collaborate on open source projects using golang and rust.<br>
 
 
 ## 🌐 Socials:
