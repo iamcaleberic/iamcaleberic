@@ -1,5 +1,5 @@
 <h1 align="center">Eric Caleb</h1>
-<p align="center"><b>Senior Engineer</b> · I build the stuff your code runs on · 🇳🇱 Amsterdam</p>
+<p align="center"><b>Senior Platform Engineer</b> · I build the stuff your code runs on · 🇳🇱 Amsterdam</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/iamcaleberic"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,15 +10,15 @@
 
 ## 🤖 About
 
-I build the platforms other engineers deploy on. Day to day that means Kubernetes controllers and operators, the provisioning that stands clusters up, and the tooling that makes "ship it" a `git push` instead of a ticket. Lately a lot of that runs underneath AI workloads — vector search, inference, and the orchestration around them.
+I'm a platform engineer who's mostly in it for the puzzles. The fun part of this job is untangling a gnarly distributed-systems problem and then turning the fix into something reusable — a controller, an operator, a bit of provisioning — so nobody has to solve it by hand again. Most of what I build these days sits under AI workloads: vector search, inference, and the orchestration holding it together.
 
-- 🔭 Building internal platforms on Kubernetes: controllers, operators, and automated provisioning so deploys don't need a human babysitting them.
-- 🛡️ I run things with an SRE bias — SLOs, error budgets, and tracing/metrics wired in from day one (OpenTelemetry, Prometheus, Grafana) so I'm debugging from data, not guesses.
-- 🧠 Comfortable down at the fundamentals: concurrency, scheduling, distributed systems. Most of it shows up while wiring vector databases, load-testing search, and orchestrating jobs for AI systems.
-- ☁️ Years across **AWS** and **GCP** — architecting multi-account/multi-project setups, networking, and the trade-offs between them. I describe it all as code with **Terraform** and **Pulumi** so environments are reproducible, not snowflakes.
-- 📐 I like the architecting part: drawing the boundaries, picking what runs where, and making the call on managed-vs-self-hosted before it becomes someone's 3am page.
-- 🦫 Mostly **Go** and **Rust** — controllers, operators, CLIs, and the glue between clusters and APIs. Drop to **Bash** when that's the right tool, not a sin.
-- 👯 Happy to hack on **Go / Rust**, **Kubernetes**, and **AI-infra** open source.
+- 🔭 Mostly living in Kubernetes — controllers, operators, and provisioning that stands clusters up so deploys don't need someone watching them.
+- 🛡️ Wired for SRE: SLOs, error budgets, and traces/metrics from day one (OpenTelemetry, Prometheus, Grafana). I'd rather debug from data than guess and pray.
+- 🧠 Happiest down in the fundamentals — concurrency, scheduling, distributed systems. These days that's wiring vector databases, load-testing search, and orchestrating jobs for AI.
+- ☁️ Years deep in **AWS** and **GCP**: multi-account/multi-project setups, networking, and knowing which one to reach for and why. All of it as code with **Terraform** and **Pulumi** — reproducible environments, no snowflakes.
+- 📐 The architecting is half the fun: drawing the boundaries, deciding what runs where, and calling managed-vs-self-hosted before it turns into someone's 3am page.
+- 🦫 **Go** and **Rust** for most of it — controllers, operators, CLIs, the glue between clusters and APIs. **Bash** when that's honestly the right call.
+- 👯 Always up to hack on **Go / Rust**, **Kubernetes**, and **AI-infra** open source.
 
 ---
 
