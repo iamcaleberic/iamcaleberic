@@ -13,8 +13,8 @@
 I'm a platform engineer who's mostly in it for the puzzles. The fun part of this job is untangling a gnarly distributed-systems problem and then turning the fix into something reusable — a controller, an operator, a bit of provisioning — so nobody has to solve it by hand again. Most of what I build these days sits under AI workloads: vector search, inference, and the orchestration holding it together.
 
 - 🔭 Mostly living in Kubernetes — controllers, operators, and provisioning that stands clusters up so deploys don't need someone watching them.
-- 🛡️ Wired for SRE: SLOs, error budgets, and traces/metrics from day one (OpenTelemetry, Prometheus, Grafana). I'd rather debug from data than guess and pray.
-- 🧠 Happiest down in the fundamentals — concurrency, scheduling, distributed systems. These days that's wiring vector databases, load-testing search, and orchestrating jobs for AI.
+- 🛡️ Wired for SRE: SLOs, error budgets, and traces/metrics from day one (OpenTelemetry, Prometheus, Grafana). When something breaks, I'd rather have the data in front of me than be guessing.
+- 🧠 The fundamentals are what I enjoy — concurrency, scheduling, distributed systems. Lately that means building the infrastructure around AI: integrating vector search, load-testing it, and orchestrating the jobs that feed it.
 - ☁️ Years deep in **AWS** and **GCP**: multi-account/multi-project setups, networking, and knowing which one to reach for and why. All of it as code with **Terraform** and **Pulumi** — reproducible environments, no snowflakes.
 - 📐 The architecting is half the fun: drawing the boundaries, deciding what runs where, and calling managed-vs-self-hosted before it turns into someone's 3am page.
 - 🦫 **Go** and **Rust** for most of it — controllers, operators, CLIs, the glue between clusters and APIs. **Bash** when that's honestly the right call.
